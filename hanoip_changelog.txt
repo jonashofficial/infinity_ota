@@ -1,2 +1,11 @@
+=== Project Infinity-X 4.2 (8.11.2026) ===
+- Synced source changes
+- Fixed battery drain
+- Brought back root - use Cl version of any of these: KSU Official, KernelSU-Next, KowSU, MamboSU, xxKSU, BakaSU, midoriSU, FinaSU or OriginKSU
+- Stability improvements
+- Ported Moto Camera 5
+
+
 === Project Infinity-X 4.1 (31.10.2026) ===
 - Initial release
+
