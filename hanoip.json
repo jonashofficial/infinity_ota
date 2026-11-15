@@ -1,12 +1,12 @@
 {
-    response: [
+    "response": [
         {
-            filename: Project_Infinity-X-4.2-hanoip-14.11.2026-GAPPS-UNOFFICIAL.zip,
-            download: https://infinity.hyperlandia.cz/Project_Infinity-X-4.2-hanoip-14.11.2026-GAPPS-UNOFFICIAL.zip,
-            timestamp: 1794690569,
-            md5: fd860930535bc18bcb76b38e9f8a2995,
-            size: 2200473985,
-            version: 4.2
+            "filename": "Project_Infinity-X-4.2-hanoip-14.11.2026-GAPPS-UNOFFICIAL.zip",
+            "download": "https://infinity.hyperlandia.cz/Project_Infinity-X-4.2-hanoip-14.11.2026-GAPPS-UNOFFICIAL.zip",
+            "timestamp": 1794690569,
+            "md5": "fd860930535bc18bcb76b38e9f8a2995",
+            "size": 2200473985,
+            "version": "4.2"
         }
     ]
 }
