@@ -1,3 +1,11 @@
+=== Project Infinity-X 4.2 (14.11.2026) ===
+- Fixed Moto Camera problems
+- Tuned system stability
+- Migrated to Lunaris Dolby
+- Fixed refresh rate bugs
+- Fixed NFC crash-loop on non-NFC variants
+
+
 === Project Infinity-X 4.2 (8.11.2026) ===
 - Synced source changes
 - Fixed battery drain
